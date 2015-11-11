@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Wed, 11 Nov 2015 14:00:00 +0100
+Source: tmseg
+Binary: tmseg
+Architecture: source all
+Version: 2.1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: Michael Bernhofer <michael.bernhofer@mytum.de>
+Changed-By: Michael Bernhofer <michael.bernhofer@mytum.de>
+Description: 
+ tmseg      - Transmembrane helix prediction in proteins
+Changes: 
+ tmseg (2.1.0-1) unstable; urgency=low
+ .
+   * New upstream release
+Checksums-Sha1: 
+ a9e1d58b358a2a7db03bf58857116932fa59c423 1651 tmseg_2.1.0-1.dsc
+ 67b75fdaa0cdd9f2aacfaccf940590c952e3f35c 36410895 tmseg_2.1.0.orig.tar.gz
+ bf3e27f9b0709b4a156536cd7da6c796d51c0114 1701 tmseg_2.1.0-1.debian.tar.gz
+ f4f23d54c2d0be227a20af12e90c2c67a34f4c78 26325414 tmseg_2.1.0-1_all.deb
+Checksums-Sha256: 
+ bf346108227ae7be3cc282f6ce465498b8da1b2af6ba38692df962aa8c0ec639 1651 tmseg_2.1.0-1.dsc
+ 5a24af2c46bbaf48a396fcb2822dd561793fd6902eb361c7beec55e4f4c130ce 36410895 tmseg_2.1.0.orig.tar.gz
+ 0c8e64e78a495550d0ef5f7d1f15307cfff13335ae00d487b209d9d6edfd1e27 1701 tmseg_2.1.0-1.debian.tar.gz
+ f908720ba121d8a95b1681a652fa65b9745b27c4a0d0f9e0885a2dd5f51c76f8 26325414 tmseg_2.1.0-1_all.deb
+Files: 
+ 071ac264ed8f23f8e357bad6303367c9 1651 misc optional tmseg_2.1.0-1.dsc
+ d8eb767119a4f8f3a95ae98893f8ccc0 36410895 misc optional tmseg_2.1.0.orig.tar.gz
+ 33fae6285f1fddd25f6e1bb9ddcaf07f 1701 misc optional tmseg_2.1.0-1.debian.tar.gz
+ 7232482d56a7c4c06241ca32fab5dde2 26325414 misc optional tmseg_2.1.0-1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBAgAGBQJWQ1qDAAoJEG4/0mLKZ2qFvpkP/1DmEspPwNk7W2yxCg8YTrxH
+6RKR7r1MSUebwBQcHf/5xnnObDpRqdQ1Tj4CiHkm2egD90fGE646eladkWnfkz+L
+9t1knztU/9/43liEHU+XnkVteMvAUP4D8CpBDm4s62Xz2lURUuk2/9knKr+cSlLs
+JYvAV3huZSlKUdGLttyL2ZQPT8L3/6zw+unuNIp9aeMuM2RQ8YCr4obw3NinAZDH
++LGS7nupByXLzT+XzFTJcIFz/y0VFP7SJkUnOt3TdCFPJ9F8fGQQkTkyxDyUKZTi
+6Vv2XTejAZ5uJS1f31Ee2FZ1ZeE+ur45oCfgwSZFe0IfUPhUIAAWIG46rf+xr7ja
+By6slb9Poxa9y9ODbPO3w3XFj7a1CzFJg6/PcmZLQ3gI9g3t7sIz+1eVg+ziNzxB
+N7+POqVcJjDPe/e3r+s65/8sbxPEIyJgUiVZSTd0UbsK0EMZOCSSw6rGpFNDly+y
+aNbVyGGDoMRc6KiIuGS2lkcjw0HMo+BHVAIhgMPk4vsbWZ1KkZ5QEmCmckoZAsmy
+VpS11UQGUcQw6m70yywqW4WOPqHA9DlHS/A/I7xcG52SmnOg2m4Hi0OLZon4Rw4u
+TWtlDY4I+enG9ILw0prAzE5B9MpSa026PjDL3okhcK7Pd3nPep7I/ZHoWPm6yGvs
+AWTACX8NGT1gCfLP+hWf
+=6Zi2
+-----END PGP SIGNATURE-----
